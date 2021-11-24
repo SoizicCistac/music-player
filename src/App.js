@@ -19,10 +19,10 @@ function App() {
       src: "./music/dumpstaphunk.mp3"
     },
     {
-      title : "Wanna Dance",
-      artist: "Walter Trout",
-      img_src: "./images/walter-trout.jpg",
-      src: "./music/walter-trout.mp3" 
+      title : "Butter (hotter remix)",
+      artist: "BTS",
+      img_src: "./images/bts.jpeg",
+      src: "./music/bts.mp3" 
     },
     {
       title : "Midnight Highway",

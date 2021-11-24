@@ -17,6 +17,8 @@ body {
 }
 
 .c-player {
+  width: 400px;
+  height: 650px;
   display: block;
   background-color: #313131;
   margin: 0px auto;
